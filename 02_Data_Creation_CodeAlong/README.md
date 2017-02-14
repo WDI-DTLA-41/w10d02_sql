@@ -278,7 +278,7 @@ wdi=# SELECT * FROM students;
 
 ```
 
-## Independent Practice - 20 mins
+## Independent Practice - 40 mins
 
 There's _no way_ you're going to remember the exact syntax of everything we just did, but let's practice a habit you should have been doing since week 1: finding and reading documentation. Checkout [this PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) and using the same database and datatable of users, get through a many of these SQL challenges as possible in the next 10 minutes:
 
